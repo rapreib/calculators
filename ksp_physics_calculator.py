@@ -1,3 +1,9 @@
+/*
+  NAME:     Rebecca A Preib
+  DATE:     12/06/2016
+  PROJECT:  Kerbal Space Program physics calculator
+*/
+
 import math
 
 TONS_TO_KG = 1000
